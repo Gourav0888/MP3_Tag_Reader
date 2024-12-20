@@ -11,7 +11,7 @@ Edit MP3 File Tags: Use the -e option followed by additional options to edit spe
 -m: Edit the content
 -c: Edit comments
 
-# Usage:
+# Usage
 To view please pass like: ./a.out -v mp3filename
 To edit please pass like: ./a.out -e -t/-a/-A/-m/-y/-c changing_text mp3filename
 To get help please pass like: ./a.out --help
